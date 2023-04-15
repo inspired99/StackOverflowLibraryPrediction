@@ -4,4 +4,4 @@ Test Task for Huawei Lab
 
 * `Framework Prediction Stackoverflow.ipynb` - файл с обучением с комментариями и графиками
 
-* `evseev_elisey.pdf` - теория
+* `evseev_elisey.pdf` - решение задачи
